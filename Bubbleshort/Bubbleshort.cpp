@@ -27,7 +27,3 @@ void input() {  //procedur untuk input
 
 	}
 }
-
-
-
-
