@@ -21,4 +21,11 @@ void input() {  //procedur untuk input
 	cout << "Masukan Elemen Array" << endl;
 	cout << "====================" << endl;
 
+	for (int i = 0; i < n; i++) { // Looping dengan i dimulai dari 0 hingga n-1
+		cout << "data ke-" << (i + 1) << ": "; //Output ke layar
+		cin >> arr[i]; // output dari pengguna
+
+	}
+}
+
 
